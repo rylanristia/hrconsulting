@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bg-blue {
+  background-color: #312ECB;
+}
+
+.bg-blue-dark {
+  background-color: #0D1C37;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.blue {
+  color: #312ECB;
+}
+
+.blue-dark {
+  color: #0D1C37;
+}
+
+.white {
+  color: white;
+}
+
+nav {
+  height: 100px;
+}
+
+.btn-primary {
+  background-color: #312ECB;
+  color: white;
+  border-radius: 10px;
+  width: 170px;
+}
+
+.hero {
+  height: 400px;
+}
+
+.about {
+  height: 400px;
+}
+
+.hero-image {
+  max-width: 500px;
+}
+
+.about-image {
+  max-width: 300px;
+}
+
+.quotes {
+  margin-top: 200px;
+  margin-bottom: 100px;
+  line-height: 100px;
+}
+.quotes .quotes-text {
+  font-size: 35px;
+}
+
+.our-service {
+  background-image: url("../images/background.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 250px;
+  height: 500px;
+}
+.our-service .card {
+  min-height: 100px;
+}/*# sourceMappingURL=style.css.map */
